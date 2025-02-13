@@ -1,0 +1,11 @@
+{
+    "Auth": true,
+    "Admin": true,
+    "Publisher": true,
+    "Customer": true,
+    "Roles": true,
+    "Book": true,
+    "Order": true,
+    "Category": true,
+    "MediaLibrary": true
+}
