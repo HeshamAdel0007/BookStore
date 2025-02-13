@@ -36,7 +36,6 @@ return new class extends Migration
             // indexes for performance improvement
             $table->index('order_id'); // index for faster order lookups.
             $table->index('transaction_id'); // index for faster transaction lookups.
-            $table->index('payment_status'); // index to speed up filtering by status.
             $table->timestamps();
         });
     }
