@@ -2,6 +2,10 @@
 The **BookStore** is a multi-vendor online bookstore built using **Laravel**. It allows users (customers) to browse and purchase books from multiple sellers (publishers). The system supports book management, order processing, discounts, coupons, and user authentication with role-based access control.
 
 ---
+## Test API
+
+you  can use this [**NextJS**](https://github.com/HeshamAdel0007/BookStore/tree/main/NextJs) project to test api
+
 
 ## Key Features
 - **Multi-Vendor Support**: Publishers can manage their own books independently.
